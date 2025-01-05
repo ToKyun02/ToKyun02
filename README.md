@@ -1,6 +1,6 @@
 # Kim-To-Kyun
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=header&text=안녕하세요!&fontSize=80&fontColor=E0E0E0&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=header&text=🖐️Hi, there.&fontSize=80&fontColor=555555" />
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -32,4 +32,4 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=footer&fontSize=40&fontColor=E0E0E0&text=developtk02@gmail.com" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=footer&fontSize=40&fontColor=555555&text=developtk02@gmail.com" />
