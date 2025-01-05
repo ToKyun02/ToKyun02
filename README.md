@@ -14,9 +14,21 @@
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToKyun02&layout=compact" alt="Top Langs" width=360>
 </div>
 
-<p align="center">
-  <a target="_blank" href="https://aws.amazon.com/ko/what-is/javascript/"><img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" style="border-radius:10px"></a>
-</p>
+## 💎 기술 스택
+
+<div align="center">
+  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="icons/html.svg" alt="HTML5" width="48" height="48"/></a>
+  <a target="_blank" href="https://aws.amazon.com/ko/what-is/javascript/"><img src="icons/js.svg" alt="javascript" width="48" height="48"/></a>
+  <a target="_blank" href="https://typescriptlang.org/"><img src="icons/ts.svg" alt="typescript" width="48" height="48"/></a>
+  <a target="_blank" href="https://reactjs.org"><img src="icons/react.svg" alt="react" width="48" height="48"/></a>
+  <a target="_blank" href="https://reactrouter.com/en/main"><img src="icons/react-router.svg" alt="react-router" width="48" height="48"/></a>
+  <a target="_blank" href="https://ko.vite.dev/"><img src="icons/vite.svg" alt="vite" width="48" height="48"/></a>
+  <a target="_blank" href="https://nextjs.org/"><img src="icons/nextjs.svg" alt="nextjs" width="48" height="48"/></a>
+  <a target="_blank" href="https://tailwindcss.com/"><img src="icons/tailwind.svg" alt="tailwindcss" width="48" height="48"/></a>
+
+
+</div>
 
 ## :telephone: Contact
+
 developtk02@gmail.com
