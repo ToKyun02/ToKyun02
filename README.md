@@ -1,5 +1,7 @@
 # Kim-To-Kyun
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=header&text=안녕하세요!&fontSize=80&fontColor=E0E0E0&animation=fadeIn" />
+
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ToKyun02" alt="Tokyun's GitHub stats" style="margin-bottom: 10px;" width=360>
@@ -26,9 +28,8 @@
   <a target="_blank" href="https://nextjs.org/"><img src="icons/nextjs.svg" alt="nextjs" width="48" height="48"/></a>
   <a target="_blank" href="https://tailwindcss.com/"><img src="icons/tailwind.svg" alt="tailwindcss" width="48" height="48"/></a>
 
-
 </div>
 
-## :telephone: Contact
+<br/>
 
-developtk02@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=footer&fontSize=40&fontColor=E0E0E0&text=developtk02@gmail.com" />
