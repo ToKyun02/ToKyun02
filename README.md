@@ -36,6 +36,14 @@
 
 </div>
 
+## ✈️ 경력
+
+### (주)비바리퍼블리카 Frontend Developer Assistant (UX) Deus Team
+<a target="_blank" href="https://toss.tech/article/firesidechat_frontend_11">관련 링크</a>
+- 기간 : 2025.04.21 ~ (재직 중)
+- 근무 내용 : Design Editor 추가 기능 개발 & 유지보수 & Playwright for E2E
+- Tech : React, Tanstack Query, MobX, TypeScript, Emotion, SCSS
+
 <br/>
 
 <div align="center">
