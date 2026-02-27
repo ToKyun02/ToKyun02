@@ -8,9 +8,11 @@
   <h3> <a href="https://tokyun02.github.io">😊 It's my portfoilo.</a></h3>
 </div>
 
+
 <div align="center">
+  
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ToKyun02" alt="Tokyun's GitHub stats" style="margin-bottom: 10px;" width=360>
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ToKyun02"/>
   </a>
 </div>
 <div align="center">
@@ -19,7 +21,7 @@
   </a>
 </div>
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ToKyun02&layout=compact" alt="Top Langs" width=360>
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ToKyun02&layout=compact" alt="Top Langs" width=360>
 </div>
 
 ## 💎 기술 스택
@@ -33,6 +35,7 @@
   <a target="_blank" href="https://ko.vite.dev/"><img src="icons/vite.svg" alt="vite" width="48" height="48"/></a>
   <a target="_blank" href="https://nextjs.org/"><img src="icons/nextjs.svg" alt="nextjs" width="48" height="48"/></a>
   <a target="_blank" href="https://tailwindcss.com/"><img src="icons/tailwind.svg" alt="tailwindcss" width="48" height="48"/></a>
+  <a target="_blank" href="https://python.org/"><img src="icons/python.svg" alt="python" width="48" height="48"/></a>
 
 </div>
 
