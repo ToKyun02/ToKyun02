@@ -49,6 +49,11 @@
 - Communication Tool : Slack, Linear, Jira, Figma, ..etc 
 <br/>
 
+## 기타 보유 경험
+
+### 삼성전자 S/W 역량테스트 B형(Professional)
+- 취득일 : 2026.03.14
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=82EEFD&height=200&section=footer&fontSize=20&fontColor=555555&text=Email%20%3A%20developtk02@gmail.com" />
 </div>
